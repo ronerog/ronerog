@@ -4,7 +4,7 @@ Eu sou **Rônero**,
 
 - 💻 Estou aprendendo a como ser um **Desenvolvedor Web** com a Trybe, onde pretendo desenvolver e aprimorar meu conhecimento sobre **JavaScript, Phyton, CSS, HTML, softskills** e muitas outras coisas;
 - 👔 Sou graduado em Direito, com pós-graduação em Direito Administrativo e Constitucional;
-- 📚 Estou em fase de redescobimento e com muita vontade de aprender muitas coisas nova a cada dia;
+- 📚 Estou em fase de redescobimento e com muita vontade de aprender coisas novas a cada dia;
 
 
 <div align="center">
