@@ -11,8 +11,7 @@ Eu sou **Rônero**,
   <a href="https://github.com/ronerog">
      <a href="https://github.com/ronerog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronerog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="right" alt="Ronero-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/736974805760475217/969452638376714250/picasion.com_7db3aaa985d68a2eec9ded24d3d8fea3.gif">
-</div>
+
 
 ##
 
@@ -25,4 +24,6 @@ Eu sou **Rônero**,
 
   
 ![Snake animation](https://github.com/ronerog/ronerog/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" alt="Ronero-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/736974805760475217/969452638376714250/picasion.com_7db3aaa985d68a2eec9ded24d3d8fea3.gif">
+</div>
 </div>
