@@ -24,6 +24,6 @@ Eu sou **Rônero**,
 
   
 ![Snake animation](https://github.com/ronerog/ronerog/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" alt="Ronero-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/736974805760475217/969452638376714250/picasion.com_7db3aaa985d68a2eec9ded24d3d8fea3.gif">
 </div>
+        <img align="right" alt="Ronero-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/736974805760475217/969452638376714250/picasion.com_7db3aaa985d68a2eec9ded24d3d8fea3.gif">
 </div>
