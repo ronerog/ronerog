@@ -35,9 +35,6 @@ Como desenvolvedor web, tenho uma abordagem metódica e detalhada para o desenvo
 
 Sou apaixonado por tecnologia e sempre procurando novos desafios.
 
-Pode me contatar por aqui mesmo ou se preferir: ronerojr@gmail.com
-Meu github: https://github.com/ronerog
-
 * 🌍  I'm based in Maceió, Alagoas
 * ✉️  You can contact me at [ronerojr@gmail.com](mailto:ronerojr@gmail.com)
 
