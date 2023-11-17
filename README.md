@@ -1,10 +1,42 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rônero Gomes
 ====================================================================================================================================
 
-Web Developer
+Engenheiro de Software
 -------------
 
-Meu nome é Rônero, sou de Maceió/AL, tenho graduação em Direito e pós-graduação em Direito Administrativo e Constitucional. Atualmente, estou cursando o curso Trybe em Desenvolvimento Web e concluindo minha graduação em Análise e Desenvolvimento de Sistemas. Como formado da Trybe, tenho ampla gama de habilidades e conhecimento em desenvolvimento de aplicativos, programação e tecnologia. Durante o curso, tive a oportunidade de trabalhar em projetos reais e colaborar com equipes multidisciplinares, desenvolvendo minhas habilidades de trabalho em equipe e comunicação. Tenho experiência em diversas linguagens de programação, incluindo JavaScript e Python, e sempre procuro aprender mais sobre novas tecnologias e tendências. Além disso, estou familiarizado com as últimas ferramentas e plataformas, como React Native, NodeJS, .NET. Também tenho diferenciais que o curso me ofereceu, como habilidades em soft skills e metodologias ágeis como kanban e SCRUM. Como desenvolvedor web, tenho uma abordagem metódica e detalhada para o desenvolvimento de software, garantindo que os projetos sejam entregues no prazo e dentro do orçamento. Além disso, sou capaz de trabalhar de forma independente e em equipe, e sempre procuro formas de melhorar minhas habilidades e conhecimento. Sou apaixonado por tecnologia e sempre procurando novos desafios e oportunidades de carreira. Estou animado para aplicar meu conhecimento e habilidades em um ambiente de trabalho desafiador e inovador, onde posso contribuir para o sucesso da empresa e meu crescimento pessoal.
+Olá, bem-vindo(a)!
+
+Meu nome é Rônero, sou de Maceió/AL, atualmente, estou cursando minha pós-graduação em Engenharia de Software na PUC-RIO.
+
+Tenho ampla gama de habilidades e conhecimento em desenvolvimento software, desenvolvimento de sites, desenvolvimento web, desenvolvimento de sistemas web, tanto no desenvolvimento como manutenção. Tive a oportunidade de trabalhar em projetos tanto como desenvolvedor back-end, como desenvolvedor front-end, seja sozinho ou em colaboração com equipes, desenvolvendo minhas habilidades de trabalho em equipe e comunicação.
+
+Meu comprometimento é com a busca pelo desenvolvimento de soluções de alta qualidade, disponibilidade, arquitetura, segura e com código limpo.
+
+Sou motivado e entusiasmado em enfrentar projetos desafiadores para contribuir com o crescimento da empresa e buscar mais aprimoramento e conhecimentos na área.
+
+Principais Habilidades:
+
+✔️ React e Styled Components (componentes estilizados);
+✔️ Conhecimento de Python (utilização de Flask para web), JavaScript;
+✔️ Banco de dados relacionais e não relacionais como Postgres, MySQL, SQLite e MongoDB;
+✔️ Consumo de API's;
+✔️ Ambiente Docker;
+✔️ Uso do sistema Linux para desenvolvimento.
+✔️ Utilização de Node.JS no desenvolvimento back-end
+✔️ Testes automatizados através do Selenium;
+✔️ Versionamento de código com Git;
+
+Outras:
+✔️ Experiência com metodologia ágil (Scrum e Kanban);
+✔️ Gosto de escrever códigos bem desenhados e eficientes;
+✔️ Independente, solucionador de problemas e com atitude proativa.
+
+Como desenvolvedor web, tenho uma abordagem metódica e detalhada para o desenvolvimento de software, garantindo que os projetos sejam entregues no prazo e dentro do orçamento. Além disso, sou capaz de trabalhar de forma independente e em equipe, e sempre procuro formas de melhorar minhas habilidades e conhecimento.
+
+Sou apaixonado por tecnologia e sempre procurando novos desafios.
+
+Pode me contatar por aqui mesmo ou se preferir: ronerojr@gmail.com
+Meu github: https://github.com/ronerog
 
 * 🌍  I'm based in Maceió, Alagoas
 * ✉️  You can contact me at [ronerojr@gmail.com](mailto:ronerojr@gmail.com)
