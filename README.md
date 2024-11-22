@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rônero Gomes
 ====================================================================================================================================
 
-Engenheiro de Software
 -------------
 
 Olá, bem-vindo(a)!
 
-Meu nome é Rônero, sou de Maceió/AL, atualmente, estou cursando minha pós-graduação em Engenharia de Software na PUC-RIO.
+Meu nome é Rônero, sou de Maceió/AL, atualmente, estou cursando Sistemas de Informacao.
 
 Tenho ampla gama de habilidades e conhecimento em desenvolvimento software, desenvolvimento de sites, desenvolvimento web, desenvolvimento de sistemas web, tanto no desenvolvimento como manutenção. Tive a oportunidade de trabalhar em projetos tanto como desenvolvedor back-end, como desenvolvedor front-end, seja sozinho ou em colaboração com equipes, desenvolvendo minhas habilidades de trabalho em equipe e comunicação.
 
@@ -18,20 +17,17 @@ Principais Habilidades:
 
 ✔️ React e Styled Components (componentes estilizados);
 ✔️ Conhecimento de Python (utilização de Flask para web), JavaScript;
-✔️ Banco de dados relacionais e não relacionais como Postgres, MySQL, SQLite e MongoDB;
+✔️ Banco de dados relacionais e não relacionais como Postgres, MySQL, SQLite;
 ✔️ Consumo de API's;
 ✔️ Ambiente Docker;
 ✔️ Uso do sistema Linux para desenvolvimento.
 ✔️ Utilização de Node.JS no desenvolvimento back-end
-✔️ Testes automatizados através do Selenium;
 ✔️ Versionamento de código com Git;
 
 Outras:
 ✔️ Experiência com metodologia ágil (Scrum e Kanban);
 ✔️ Gosto de escrever códigos bem desenhados e eficientes;
 ✔️ Independente, solucionador de problemas e com atitude proativa.
-
-Como desenvolvedor web, tenho uma abordagem metódica e detalhada para o desenvolvimento de software, garantindo que os projetos sejam entregues no prazo e dentro do orçamento. Além disso, sou capaz de trabalhar de forma independente e em equipe, e sempre procuro formas de melhorar minhas habilidades e conhecimento.
 
 Sou apaixonado por tecnologia e sempre procurando novos desafios.
 
