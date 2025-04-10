@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Rônero Gomes
+# Olá! Eu sou Rônero Gomes
 
 ## Desenvolvedor Full Stack
 
