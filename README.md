@@ -7,7 +7,7 @@
 
 </div>
 
-Saiba um pouco sobre mim:
+**Saiba um pouco sobre mim:**
  
 <!-- Sobre mim -->
 ```js
