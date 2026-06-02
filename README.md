@@ -69,7 +69,7 @@ const ronero = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronerog&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronerog&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 </div>
 ---
