@@ -12,9 +12,9 @@
 const ronero = {
   location: "Maceió, AL 🌊",
   studying: "Sistemas de Informação @ CESMAC",
-  workingOn: "X-VIA · Governo de Alagoas",
-  stack: ["Next.js", "React", "TypeScript", "Node.js", "Docker"],
-  funFact: "Também tenho diploma em Direito 👨‍⚖️",
+  workingOn: "ITEC - Instituto de Tecnologia em Informatica e Informação",
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "Docker", "Kubernets", "Keycloak"],
+  funFact: "Sou advogado, mas não atuo como",
   ask_me_about: "SPAs, APIs REST, testes automatizados"
 };
 ```
@@ -22,7 +22,7 @@ const ronero = {
 ---
  
 <!-- Tecnologias -->
-### 🛠️ Tecnologias
+### Tecnologias
  
 **Front-end**
  
@@ -55,7 +55,7 @@ const ronero = {
 ---
  
 <!-- Stats -->
-### 📊 GitHub Stats
+### GitHub Stats
  
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronerog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -65,7 +65,7 @@ const ronero = {
 ---
  
 <!-- Snake -->
-### 🐍 Contribuições
+### Contribuições
  
 <div align="center">
 ![snake gif](https://raw.githubusercontent.com/ronerog/ronerog/output/github-contribution-grid-snake-dark.svg)
