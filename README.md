@@ -13,9 +13,9 @@ const ronero = {
   location: "Maceió, AL 🌊",
   studying: "Sistemas de Informação @ CESMAC",
   workingOn: "ITEC - Instituto de Tecnologia em Informatica e Informação",
-  stack: ["Next.js", "React", "TypeScript", "Node.js", "Docker", "Kubernets", "Keycloak"],
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "Docker", "Kubernetes", "Keycloak"],
   funFact: "Sou advogado, mas não atuo como",
-  ask_me_about: "SPAs, APIs REST, testes automatizados"
+  ask_me_about: "SPAs, Sistemas, APIs REST, testes automatizados, Integrações, Arquitetura"
 };
 ```
  
