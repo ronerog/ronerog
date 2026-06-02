@@ -1,9 +1,10 @@
 <!-- Cabeçalho -->
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+o+R%C3%B4nero+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Maceio%2FAL+%F0%9F%8C%8A;Next.js+%7C+React+%7C+TypeScript;Sempre+aprendendo...)](https://git.io/typing-svg)
- 
-![Visitas](https://komarev.com/ghpvc/?username=ronerog&color=58A6FF&style=flat-square&label=visitas+no+perfil)
- 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+o+R%C3%B4nero+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Maceio%2FAL+%F0%9F%8C%8A;Next.js+%7C+React+%7C+TypeScript;Sempre+aprendendo..." alt="Typing SVG" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=ronerog&color=58A6FF&style=flat-square&label=visitas+no+perfil" alt="Visitas" />
+
 </div>
 ---
  
