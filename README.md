@@ -60,9 +60,14 @@ const ronero = {
 ### GitHub Stats
  
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronerog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ronerog&theme=tokyonight&hide_border=true" />
+
+<br/>
+
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronerog&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 ---
  
@@ -70,8 +75,9 @@ const ronero = {
 ### Contribuições
  
 <div align="center">
-![snake gif](https://raw.githubusercontent.com/ronerog/ronerog/output/github-contribution-grid-snake-dark.svg)
- 
+
+<img src="https://raw.githubusercontent.com/ronerog/ronerog/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
 </div>
 ---
  
@@ -79,9 +85,10 @@ const ronero = {
 ### 📫 Contato
  
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronero-gomes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronerojr@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582981412888)
- 
+
+<a href="https://linkedin.com/in/ronero-gomes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ronerojr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5582981412888"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 </div>
  
