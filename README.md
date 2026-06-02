@@ -6,7 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=ronerog&color=58A6FF&style=flat-square&label=visitas+no+perfil" alt="Visitas" />
 
 </div>
----
+
+Saiba um pouco sobre mim:
  
 <!-- Sobre mim -->
 ```js
